@@ -3,6 +3,7 @@
 Clone the directory <br/>
 Open the terminal <br/>
 Set the current directory <br/>
+cd code <br/>
 Run `python decisiontree.py`
 
 The output will show the preorder traversal of the decision tree
