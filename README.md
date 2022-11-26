@@ -1,4 +1,4 @@
-# [Decision-Tree](onlinegdb.com/FQw6hzTYa)
+# [Decision-Tree](https://www.onlinegdb.com/FQw6hzTYa)
 
 Clone the directory <br/>
 Open the terminal <br/>
